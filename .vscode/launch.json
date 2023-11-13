@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/David/Desktop/1st Year/Engineering 2nd/aps105labs/lab82/reversi-ai-algo",
+      "program": "/Users/David/Desktop/1st Year/Engineering 2nd/aps105labs/lab82/reversi-ai-algo/build/Debug/outDebug"
+    }
+  ]
+}
